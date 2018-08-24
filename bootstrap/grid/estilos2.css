@@ -1,0 +1,45 @@
+
+div {
+font: 10px;
+text-align: center;
+background-color: #00a659;
+}
+body {
+font: 10px;
+text-align: center;
+background-color: #00205b;
+}
+p{
+font-size:12ppx;
+color:#e4002b;
+text-align:left;
+}
+h1{
+grid-area: header;
+background-color: #0059a6;
+padding: 30px;
+text-align: center;
+font-size: 35px;
+}
+article{
+font: 10px;
+text-align: center;
+background-color: #66ffcc;    
+}
+aside {
+font: 10px;
+text-align: center;
+background-color: #008080;
+}
+.clase1{
+font-style:italic;
+font-size:20px;
+border-bottom:1px #000000 dashed;
+text-align:left;
+}
+#estilo1{
+color:#FFFFFF;
+font-size:15px;
+background-color: #000000;
+text-align:left;
+}
