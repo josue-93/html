@@ -1,22 +1,22 @@
 
-div {
+div{
 font: 10px;
 text-align: center;
-background-color: #00a659;
+background-color: #ffffff;
 }
-body {
+body{
 font: 10px;
 text-align: center;
-background-color: #00205b;
+background-color: #ffffff;
 }
 p{
 font-size:12ppx;
-color:#e4002b;
+color:#000000;
 text-align:left;
 }
 h1{
 grid-area: header;
-background-color: #0059a6;
+background-color: hsl(0, 0%, 94%);
 padding: 30px;
 text-align: center;
 font-size: 35px;
@@ -24,22 +24,15 @@ font-size: 35px;
 article{
 font: 10px;
 text-align: center;
-background-color: #66ffcc;    
+background-color: hsl(0, 0%, 71%));    
 }
-aside {
+aside{
 font: 10px;
 text-align: center;
-background-color: #008080;
+background-color: hsl(0, 0%, 24%);
 }
-.clase1{
-font-style:italic;
-font-size:20px;
-border-bottom:1px #000000 dashed;
-text-align:left;
-}
-#estilo1{
-color:#FFFFFF;
-font-size:15px;
-background-color: #000000;
-text-align:left;
+h3{
+font: 10px;
+text-align: center;
+background-color: hsl(0, 0%, 0%);
 }
